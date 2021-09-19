@@ -1,6 +1,7 @@
 # Recursive-File-Structure-Solution
 
 1, index.php: contains the code which will upload the content from RecursiveFileStructure.txt to MySQL.
+
 2, user_interface.phpr: contians the code for user interface to execute search queries
 
 How to Run?
